@@ -1,6 +1,6 @@
 title: Espresso & Cognac
-baseline: a hot sip and a smooth swig
-description: Test desc text
+baseline: test baseline text
+description: a hot sip and a smooth swig
 baseurl: /
 canonicalurl: true
 theme: hyde
