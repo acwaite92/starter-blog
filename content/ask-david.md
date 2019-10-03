@@ -9,5 +9,6 @@ Ask David:
 
 <form action="/action_page.php">
   <input type="text" name="question">
+  <p> </p>
   <input type="submit" value="Submit">
 </form>
